@@ -23,7 +23,6 @@ colorama==0.4.6
 colored==2.2.3
 comm==0.2.0
 cssselect==1.2.0
-dataclasses-json==0.6.2
 debugpy==1.8.0
 decorator==5.1.1
 distro==1.8.0
